@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryal of John Foster, for stealing a mag pye.</title>
+            <author>Foster, John, fl. 1693, defendant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94843</idno>
+            <idno type="STC">Wing T2191</idno>
+            <idno type="STC">ESTC R226755</idno>
+            <idno type="EEBO-CITATION">43077700</idno>
+            <idno type="OCLC">ocm 43077700</idno>
+            <idno type="VID">151812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151812)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryal of John Foster, for stealing a mag pye.</title>
+                  <author>Foster, John, fl. 1693, defendant.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin, near the Oxford Arms in Warwick Lane.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In double columns.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foster, John, fl. 1693 --  Trials, litigation, etc.</term>
+               <term>Pet theft --  England --  Early works to 1800.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151812:1"/>
+            <pb facs="tcp:151812:1" rendition="simple:additions"/>
+            <head>THE TRYAL OF JOHN FOSTER, for Stealing a Mag pye.</head>
+            <p>The Tryal of <hi>John Foſter</hi> a private Centinel, at Juſtice-hall in the <hi>Old-Bayly</hi> in <hi>London,</hi> on <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi> the Fifth Day of <hi>June, Anno Dom.</hi> 1693. And in the Fifth Year of Their Majeſties Reign, <hi>&amp;c.</hi> For Felony, in Stealing a certain Live Bird called or known by the Name of a <hi>Mag<g ref="char:EOLhyphen"/>pye,</hi> and a Cage, at the Pariſh of <hi>New Brandford</hi> in the County of <hi>Middleſex.</hi>
+            </p>
+            <p>THE Court being ſet, and Proclamation made for ſi<g ref="char:EOLhyphen"/>lence, as is uſual, the Court proceeded as followeth;</p>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>Keeper of <hi>Newgate,</hi> bring the Bo<g ref="char:EOLhyphen"/>dy of <hi>John Foſter</hi> to the Bar, (which was done). <hi>John Foſter</hi> hold up thy Hand, (which he did) thou ſtandeſt Indict<g ref="char:EOLhyphen"/>ed, for Felony by the Name of <hi>John Foſter</hi> of the Pariſh of <hi>Han<g ref="char:EOLhyphen"/>well</hi> in the County of <hi>Middleſex,</hi> Labourer, as in the Indictment is ſet forth, <hi>&amp;c.</hi> What ſayeſt thou <hi>John Foſter?</hi> Art thou Guil<g ref="char:EOLhyphen"/>ty of this Felony whereof thou ſtandeſt Indicted, or Not Guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Foſter.</speaker>
+               <p>Not Guilty, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>
+                  <hi>Culprit,</hi> How will you be Try'd?</p>
+            </sp>
+            <sp>
+               <speaker>Foſter.</speaker>
+               <p>By God and my Countrey.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>God ſend you a good Deliverance.</p>
+               <p>After which the Priſoner was taken from the Bar, and with<g ref="char:EOLhyphen"/>in a little time after that, he was ſet to the Bar again by Order of Court, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>
+                  <hi>Cryer</hi> make Proclamation.</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>O yes, if any one can inform Their Majeſties the King and Queen's Juſtices, Their Serjeant, Their Attorney, before this Inqueſt be taken, between our Sovereign Lord and Lady the King and Queen, and the Priſoner at the Bar, of any Felonies, Treaſons, or Miſpriſion of Treaſon, let them come forth and they ſhall be heard. God ſave King <hi>William</hi> and Queen <hi>Mary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>
+                  <hi>Amen.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>You the Priſoner at the Bar, theſe Men that you ſhall hear call'd, and perſonally do appear, are to paſs between our Sovereign Lord and Lady the King and Queen, and you, upon Trial of your Life and Death; if you will chal<g ref="char:EOLhyphen"/>lenge them, or any of them, your time is to ſpeak to them as they come to the Book to be Sworn, and before they be Sworn.</p>
+            </sp>
+            <p>The Priſoner made no Exceptions, and the Jurors Sworn to Try the Iſſue are theſe Gentlemen whoſe Names follow, who were called over, and appeared every one at the firſt Call.
+<list>
+                  <head>JURORS.</head>
+                  <item>Matthias Cupper.</item>
+                  <item>Criſp Grange.</item>
+                  <item>John Hynde.</item>
+                  <item>Robert Hynde.</item>
+                  <item>Paul Winkle.</item>
+                  <item>William Webb.</item>
+                  <item>Henry Cripps.</item>
+                  <item>Charles Longland.</item>
+                  <item>John Holding.</item>
+                  <item>Robert Longland.</item>
+                  <item>Francis Barry.</item>
+                  <item>Emanuel Davis.</item>
+               </list>
+            </p>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>
+                  <hi>Cryer</hi> count theſe.</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>One, two, three, <hi>&amp;c.</hi> Twelve good Men and true, ſtand together and hear your Evidence.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>
+                  <hi>John Foſter</hi> hold up thy Hand, (which he did); Gentlemen of the Jury, and you that are Sworn, look upon the Priſoner, and hearken to his Cauſe; he ſtands In<g ref="char:EOLhyphen"/>dicted by the Name of <hi>John Foſter</hi> of the Pariſh of <hi>Hanwell</hi> in the County of <hi>Middleſex,</hi> Labourer, for that he the <hi>14th.</hi> day of <hi>May,</hi> in the Fifth Year of the Reign of our Sovereign Lord and L<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy the King and Queen, with Force and Arms, at the Pa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> aforeſaid, in the County aforeſaid, one Bird called a Mag<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e value Two-pence, and one Bird-Cage value Four-pence, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Goods and Chattels of one <hi>Robert Connisbey</hi> Gent. then and t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere being found Feloniouſly, he did ſteal, take, and bear a<g ref="char:EOLhyphen"/>way, againſt the Peace of our Sovereign Lord and Lady, the King and Queen, Their Crown and Dignity, <hi>&amp;c.</hi> To this In<g ref="char:EOLhyphen"/>dictment he hath pleaded Not Guilty, and for his Tryal he hath put himſelf upon God and his Countrey, which Countrey you are; your Buſineſs is to enquire whether he be Guilty or Not Guilty; if you find him Guilty, you are to enquire of his Goods and Chattels, and whether he fled for it; if you find him Not Guilty, nor that he did fly for it, ſay ſo, and no more, and hear your Evidence.</p>
+            </sp>
+            <sp>
+               <speaker>Cryer.</speaker>
+               <p>Call <hi>Robert Connisbey</hi> and <hi>Richard Searing,</hi> who appear<g ref="char:EOLhyphen"/>ed in Court and were Sworn, and Mr. <hi>Connisbey</hi> ſtood up.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Come Sir, what have you to ſay againſt the Priſoner at the Bar about a Mag-pye that you loſt?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisbey.</hi>
+               </speaker>
+               <p>My Lord, I loſt a Mag pye and a Cage the <hi>14th.</hi> of <hi>May</hi> laſt, it was taken from my Door off the Hook that it hung upon; b<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> truly, my Lord, I can't ſay the Priſoner at the Bar ſtole it from me.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What made you bring him here then? It is a very ſmall inconſiderable Buſineſs to put a Man into <hi>Newgate</hi> for.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisbey</hi>
+               </speaker>
+               <p>My Lord, it was none of my doings, it was the Juſtice of Peace his fault that committed him, I was un<g ref="char:EOLhyphen"/>willing he ſhould go to Priſon; I am ſorry it happened ſo, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What is the Juſtice of Peace his Name?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisbey.</hi>
+               </speaker>
+               <p>His Name is <hi>Hawley,</hi> my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Pray where does he Live?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisbey.</hi>
+               </speaker>
+               <p>At <hi>New Brandford.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>He was but a fooliſh man for his pains to commit a poor Fellow to Goal for ſuch a ſilly trifling buſineſs as this is; he had better have ſent him to his Captain, and let him run the Gantlet, <hi>&amp;c.</hi> Have you any other Witneſs, Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisbey.</hi>
+               </speaker>
+               <p>I have no more, but the Conſtable that took the Priſoner.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Took him, d'ye call it, why ſurely you had no great difficulty about the taking of him, he was not in ſuch fear as to run away for a Mag-pye; however we will hear the Conſtable.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>Stand up, Mr. <hi>Conſtable,</hi> (which he did).</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Is the Conſtable Sworn.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Conſtable.</hi>
+               </speaker>
+               <p>Yes, my Lord, I am Sworn.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Come Mr. <hi>Conſtable,</hi> what ſay you to the matter? Do you know the Priſoner at the Bar.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Conſtable.</hi>
+               </speaker>
+               <p>Yes, my Lord, this Gentleman brought me a Warrant from Mr. Juſtice <hi>Hawley</hi> againſt the Priſoner at the Bar, and I ſerv'd it upon him at his Quarters at <hi>Old Brandford,</hi> where I found the Cage and a Mag-pye, and I took them and the Priſoner, and carried them before Mr. Juſtice <hi>Hawley,</hi> and his Worſhip was pleaſed to commit the Fellow to Priſon.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Poor Fellow! Friend, how long haſt thou been in Priſon?</p>
+            </sp>
+            <sp>
+               <speaker>Foſter.</speaker>
+               <p>Almoſt three Weeks, my Lord, and I have endured a great deal of hardſhip, and many a hungry Belly I am ſure, God help me; I am very poor, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Hark you, Mr. <hi>Connisbey,</hi> pray what did the worthy Juſtice of Peace bid you do with the Mag-pye after he had com<g ref="char:EOLhyphen"/>mitted the Priſoner?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisbey.</hi>
+               </speaker>
+               <p>My Lord, he order'd me to keep the Mag-pye and the Cage ſafe till the Biſhop of <hi>London</hi>'s Bayliff came for it, it being a Waife, he ſaid it was forfeited to the Lord of the Mannor; at which the Court laughed heartily.</p>
+               <pb facs="tcp:151812:2"/>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Pray Mr. <hi>Connisbey</hi> what was your Mag-pye worth, and your Cage; was it a Wyer-Cage?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisbey.</hi>
+               </speaker>
+               <p>Worth, my Lord, I do not know well what it was worth, about a Groat or Sixpence, as the Indictment ſets forth; the Cage was a Twiggen Cage.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Fie, fie! a ſilly buſineſs, a wiſe Juſtice indeed! he de<g ref="char:EOLhyphen"/>ſerves to be committed himſelf, till he learns more wit; have you done for the King and Queen Mr. <hi>Connisby?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Connisby.</hi>
+               </speaker>
+               <p>I have no more to ſay, my Lord, I would not have come here to ſay this, if I could have helped it</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Come Mr. <hi>Foſter,</hi> you have heard what hath been ſworn againſt you; now make your Defence.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Foſter.</hi>
+               </speaker>
+               <p>My Lord, Indeed my Lord, I did not ſteal the Mag-pye; there was a man overtook me (a Stranger to me) in the way between the Two <hi>Brandfords,</hi> and deſired me to carry the Bird and the Cage for him, which I did; and when we came to <hi>Old Brandford,</hi> he deſired me to keep it, till he call'd for it; he went away, my Lord, but never came any more; ſo, my Lord, I was loath to kill the Bird, and I did not know whoſe it was, if I had, I would have reſtor'd it to the Owner.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>A good Defence. Look you, Gentlemen of the Jury, The Priſoner at the Bar, <hi>John Foſter,</hi> ſtands indicted of Felony for ſtealing a Mag-pye and a Cage, of the value of 6 <hi>d.</hi> which is a very inconſiderable value.</p>
+               <p>And you have heard the Evidence for the King, who told you that the Mag-pye was loſt, and that it was found upon the Priſoner; but Mr. <hi>Connisbey</hi> does not take upon him to ſwear that the Priſoner ſtole it from him; and the Priſoner he denies it, and tells you, That truly he did not take it away, but that he had it of a Stranger that he accidentally met withal upon the Road between the Two <hi>Brandfords,</hi> therefore I don't ſee any colour of Evidence againſt the Priſoner: And I muſt needs ſay it was a very ſimple weak thing done of the Juſtice of Peace to com<g ref="char:EOLhyphen"/>mit the poor Fellow for ſuch a Trifle; I ſhall leave it to you to conſider of the Evidence, and if you find him guilty, you are to ſay ſo; but if you think in your Conſcience that he did not ſteal the Mag-pye, then you are to acquit the Priſoner. You had beſt go over to each other, and conſider; you need not give your ſelves the trouble to go out of the Court about ſuch a ſmall indifferent matter as this.</p>
+               <p>Then the Jury having conſidered of their Verdict, and be<g ref="char:EOLhyphen"/>ing return'd to their Seats; the Court ſpake as followeth.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>Gentlemen of the Jury, are you agreed of a Verdict?</p>
+            </sp>
+            <sp>
+               <speaker>Jury.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>Keeper, ſet <hi>John Foſter</hi> to the Bar (which was done).</p>
+            </sp>
+            <sp>
+               <speaker>Clerk of the Crown.</speaker>
+               <p>
+                  <hi>John Foſter</hi> hold up thy hand (which he did); Gentlemen of the Jury, look upon the Priſoner; how ſay you, is he guilty of the Felony whereof he ſtands indicted, or not guilty?</p>
+            </sp>
+            <sp>
+               <speaker>Fore-man.</speaker>
+               <p>Not guilty.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Keeper, bring the Priſoner about into the middle of the Court (which was done)</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Look you, <hi>Foſter,</hi> becauſe you are a poor man, the Court has conſidered of your Condition, and acquitted you of the Fees; get you home about your buſineſs, but have a care how you meet with a Mag-pye again.</p>
+            </sp>
+            <sp>
+               <speaker>Foſter.</speaker>
+               <p>Indeed, my Lord, I will; Pray God bleſs King <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Queen <hi>Mary,</hi> and all the Honourable Bench. God be with you, my Lord.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisements">
+            <head>ADVERTISEMENTS.</head>
+            <list>
+               <item>
+                  <hi>Letters of Love and Gallantry. And ſeveral other Subjects. All written by Ladies. Vol. I.</hi> Printed for <hi>S. Briſcoe,</hi> over-againſt <hi>Will</hi>'s Coffee houſe in <hi>Ruſſel-ſtreet, Covent-Garden.</hi>
+               </item>
+            </list>
+            <list>
+               <item>
+                  <hi>Geogr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phy Rectified:</hi> Or, A Deſcription of the World in all its Kingdoms, Provinces, Countries, Iſlands, Cities, Towns, Seas, Rivers, Bayes, Capes, Ports; Their Ancient and Preſent Names, Inhabitants, Scituations, Hiſtories, Cuſtoms, Govern<g ref="char:EOLhyphen"/>ments, <hi>&amp;c.</hi> As alſo their Commodities, Coins, Weights and Meaſures, compared with thoſe at <hi>London.</hi> Illuſtrated with Seventy eight Maps. The Third Edition, Enlarged. To which is added a <hi>Compleat Geographical Index</hi> to the whole: Al<g ref="char:EOLhyphen"/>phabetically digeſted The whole Work performed according to the more Accurate Obſervations and Diſcoveries of Modern Authors. By <hi>Robert Morden.</hi>
+               </item>
+               <item>Conformity of the Eccleſiaſtical Diſcipline of the Reformed Churches of <hi>France</hi> with that of the Primitive Chriſtians. Written by <hi>M. La Rocque,</hi> Miniſter of <hi>Quevilly</hi> near <hi>Rouen.</hi> With his Learned Commentaries on each Article. Render'd into <hi>Engliſh</hi> by <hi>Joſ. Walker.</hi>
+               </item>
+               <item>Sermons preach'd on Several Occaſions. By <hi>John Conant,</hi> D. D.</item>
+               <item>
+                  <hi>The Righteous Man's Hope at Death:</hi> Conſider'd and Improv'd for the Comfort of Dying Chriſtians, and the Support of Surviving Relations. To which is added <hi>Death-Bed Reflections,</hi> &amp;c. proper for a Righteous Man in his Laſt Sickneſs. By <hi>Samuel Doolittle.</hi>
+               </item>
+               <item>
+                  <hi>The Mourner's Directory,</hi> guiding him in the Middle Way be<g ref="char:EOLhyphen"/>twixt the Two Extreams, <hi>Defect, Exceſs</hi> of Sorrow for his Dead. To which is added, <hi>The Mourner's Soliloquy.</hi> By <hi>Thomas Doo<g ref="char:EOLhyphen"/>little,</hi> M. A.</item>
+               <item>There is in the Preſs, and will be ſuddenly publiſhed, a Ser<g ref="char:EOLhyphen"/>mon, Entituled, <hi>The Neceſſity of an Early Victory over Satan.</hi> By <hi>T. Cruſo.</hi>
+               </item>
+               <trailer>Theſe Six Printed for <hi>Thomas Cockerill,</hi> at the <hi>Three Leggs</hi> in the <hi>Poultrey.</hi>
+               </trailer>
+            </list>
+            <list>
+               <item>An Anſwer to the Late King <hi>James</hi>'s Laſt Declaration, dated at St. <hi>Germains, April</hi> the <hi>17th.</hi> S. N. 1693.</item>
+               <item>Memoirs concerning the Campagne of Three Kings, <hi>William, Lewis,</hi> and <hi>James,</hi> in the Year 1692. With Reflections upon the Great Endeavours of <hi>Lewis</hi> the <hi>14th</hi> to effect his Deſigns, of <hi>Jame</hi> the the IId. to Remount the Throne. And the proper Methods for the Allies to take to hinder both.</item>
+               <item>Reflections upon the Late Horrid Conſpiracy contrived by the <hi>French</hi> Court, to murther His Majeſty in <hi>Flanders:</hi> And for which Monſieur <hi>Granvall,</hi> one of the Aſſaſſinates, was Executed.</item>
+               <item>
+                  <hi>Liturgia Tigurina:</hi> Or, The Book of Common Prayers and Adminiſtration of the Sacraments, and other Eccleſiaſtical Rites and Ceremonies, uſually practiſed, and ſolemnly performed in all the Churches and Chappels of the City and Canton of <hi>Zu<g ref="char:EOLhyphen"/>rick</hi> in <hi>Switzerland,</hi> and in ſome other Adjacent Countries; as by their Canons and Eccleſiaſtical Laws they are Appointed; and as by the Supream Power of the Right Honourable the Se<g ref="char:EOLhyphen"/>nate of <hi>Zurick</hi> they are Authoriſed, Eſtabliſhed, and Command<g ref="char:EOLhyphen"/>ed. With the Orders of that Church. Faithfully tranſlated out of the <hi>Helvetian</hi> into the <hi>Engliſh</hi> Tongue, by <hi>John Conrad Werndly,</hi> formerly Miniſter of the <hi>French</hi> and <hi>Dutch</hi> Congregation of <hi>San<g ref="char:EOLhyphen"/>toff</hi> in the Iſle of <hi>Axholme</hi> in the County of <hi>Lincoln:</hi> And now Miniſter of <hi>Wraisbury cum Langley</hi> in the County of <hi>Bucks.</hi>
+               </item>
+               <item>Travels into divers parts of <hi>Europe</hi> and <hi>Aſia,</hi> undertaken by the <hi>French</hi> King's Order to diſcover a new Way by Land into <hi>China;</hi> containing many curious Remarks in Natural Philoſo<g ref="char:EOLhyphen"/>phy, Geography, Hydrography, and Hiſtory. Together with a Deſcription of <hi>Great Tartary,</hi> and of the different People who inhabit there. Done out of <hi>French.</hi> To which is added, A Sup<g ref="char:EOLhyphen"/>plement extracted from <hi>Hakluyt</hi> and <hi>Purchas;</hi> giving an account of ſeveral Journeys over Land from <hi>Ruſſia, Perſia,</hi> and the <hi>Mo<g ref="char:EOLhyphen"/>guls</hi> Countrey to <hi>China,</hi> together with the Roads and diſtances of the places.</item>
+               <item>An Account of the late Terrible Earthquake in <hi>Sicily;</hi> with moſt of its Particulars. <hi>Done from the</hi> Italian <hi>Copy printed at</hi> Rome<g ref="char:punc">▪</g>
+               </item>
+               <item>The Life of <hi>Lewis</hi> of <hi>Bourbon,</hi> late Prince of <hi>Conde.</hi> Di<g ref="char:EOLhyphen"/>geſted into Annals, with many curions Remarks on the Tranſ<g ref="char:EOLhyphen"/>actions of <hi>Europe</hi> for theſe laſt 60 Years. <hi>Done out of</hi> French.</item>
+               <trailer>Theſe Seven Printed for <hi>Richard Baldwin.</hi>
+               </trailer>
+            </list>
+            <p>Theſe are to give notice to all Perſons for the benefit of the Publick, That <hi>W. Elmy,</hi> Profeſſor of Phyſick, and <hi>Operator,</hi> of known Integrity, and above 25 Years Practice, liveth at the <hi>Blue Ball</hi> in <hi>Whale-Bone-Court,</hi> at the lower end of <hi>Bartholomew-Lane,</hi> by the <hi>Royal-Exchange.</hi> VVho moſt ſafely and expeditiouſly cures <hi>Deafneſs,</hi> and <hi>Noiſe</hi> in the <hi>Ears,</hi> in any, of what Age ſoever, (if curable) and at firſt ſight by inſpection reſolves the Patient, if ſo or not, as moſt eminent Perſons of Quality in this City can teſtifie. I have Remedies ready prepared for the preſervation of the Hearing in thoſe who through ſome great defects in the Sounding Membrane, and other Impediments in the Auditory Paſſages are not perfectly curable, which Remedies pre<g ref="char:EOLhyphen"/>ſerves them from ever growing worſe, and improves their Hearing to Old Age. That you may not miſtake and go to a falſe Pretender, my Houſe is at the <hi>Blue-Ball,</hi> as aforeſaid, you may ſee it as you come in<g ref="char:EOLhyphen"/>to the Court.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford Arms</hi> in <hi>Warwick Lane.</hi> 1693.</p>
+            <pb facs="tcp:151812:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
